@@ -1,0 +1,26 @@
+{
+    "sqltools.connections": [
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "PG LOCAL",
+            "database": "FIRST",
+            "username": "palrpatel",
+            "password": "220410107073",
+            "connectionTimeout": 30
+        },
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "username": "palrpatel",
+            "database": "chat_clone",
+            "name": "chat-clone-db"
+        }
+    ]
+}
